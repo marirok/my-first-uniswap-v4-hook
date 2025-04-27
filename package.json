@@ -1,0 +1,20 @@
+{
+  "name": "my-first-hook",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "ethers": "^6.13.7",
+    "hardhat": "^2.23.0"
+  },
+  "dependencies": {
+    "@uniswap/v4-core": "^1.0.1"
+  }
+}
