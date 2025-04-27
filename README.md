@@ -6,29 +6,37 @@
 
 ---
 
-## Introduction
+## 📖 Introduction
 
-This project demonstrates how to build and deploy a basic custom Hook for **Uniswap V4**.
+This project demonstrates how to build and deploy a **custom Hook** for **Uniswap V4** using **Hardhat**.
 
 It includes:
-- A simple example of a `beforeSwap` and `afterSwap` Hook.
-- Deployment scripts using **Hardhat**.
-- All necessary Hardhat configurations.
+- A simple `beforeSwap` and `afterSwap` Hook example.
+- Deployment scripts and configurations.
+- Best practices for development.
 
 ---
 
-## Requirements
+## 📋 Table of Contents
+- [Requirements](#requirements)
+- [Installation](#installation)
+- [Deployment](#deployment)
+- [License](#license)
+
+---
+
+## 🚀 Requirements
 
 - Node.js >= 18
 - Hardhat
 - Git
-- Uniswap v4-core (cloned locally or installed)
+- Uniswap v4-core (cloned or installed)
 
 ---
 
-## Installation
+## ⚙️ Installation
 
-Clone the repository:
+Clone the repository and install dependencies:
 
 ```bash
 git clone https://github.com/marirok/my-first-uniswap-v4-hook.git
