@@ -1,12 +1,29 @@
 # My First Uniswap V4 Hook
 
-This project is a simple custom **Hook** for [Uniswap V4](https://uniswap.org/), built as part of learning and participating in the Uniswap V4 development community.
+This project demonstrates how to build and deploy a basic custom Hook for Uniswap V4.
 
-## What is this?
+It includes:
 
-- `MyFirstHook.sol` is a basic example of a Uniswap V4 Hook.
-- It implements the `IHook` interface.
-- Functions `beforeSwap` and `afterSwap` are overridden to demonstrate how hooks can interact with swaps.
+- A simple example of a `beforeSwap` and `afterSwap` Hook.
+- Deployment scripts using Hardhat.
+- All necessary Hardhat configurations.
 
-## Project Structure
+---
 
+## Requirements
+
+- Node.js >= 18
+- Hardhat
+- Git
+- Uniswap v4-core cloned or installed
+
+---
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/marirok/my-first-uniswap-v4-hook.git
+cd my-first-uniswap-v4-hook
+npm install
