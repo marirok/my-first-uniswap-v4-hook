@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cryptologos.cc/logos/uniswap-uni-logo.png" alt="Uniswap Logo" width="120" />
+  <img src="https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984/logo.png" alt="Uniswap Logo" width="120" />
 </p>
 
 <h1 align="center">My First Uniswap V4 Hook</h1>
@@ -14,14 +14,9 @@
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"/>
   <img src="https://img.shields.io/badge/Built%20With-Hardhat-blue" alt="Built with Hardhat"/>
 </p>
-# My First Uniswap V4 Hook
 
 ---
-![Build](https://img.shields.io/badge/Build-Passing-brightgreen)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![Hardhat](https://img.shields.io/badge/Built%20With-Hardhat-blue)
 
----
 
 ## 📖 Introduction
 
