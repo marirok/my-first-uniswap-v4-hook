@@ -1,14 +1,12 @@
-# Sample Hardhat Project
+# My First Uniswap V4 Hook
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+This project is a simple custom **Hook** for [Uniswap V4](https://uniswap.org/), built as part of learning and participating in the Uniswap V4 development community.
 
-Try running some of the following tasks:
+## What is this?
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.js
-```
-"# my-first-uniswap-v4-hook" 
+- `MyFirstHook.sol` is a basic example of a Uniswap V4 Hook.
+- It implements the `IHook` interface.
+- Functions `beforeSwap` and `afterSwap` are overridden to demonstrate how hooks can interact with swaps.
+
+## Project Structure
+
