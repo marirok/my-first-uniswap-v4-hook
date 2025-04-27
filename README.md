@@ -4,15 +4,15 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Hardhat](https://img.shields.io/badge/Built%20With-Hardhat-blue)
 
-This project demonstrates a basic Hardhat use case...
+---
 
+## Introduction
 
-This project demonstrates how to build and deploy a basic custom Hook for Uniswap V4.
+This project demonstrates how to build and deploy a basic custom Hook for **Uniswap V4**.
 
 It includes:
-
 - A simple example of a `beforeSwap` and `afterSwap` Hook.
-- Deployment scripts using Hardhat.
+- Deployment scripts using **Hardhat**.
 - All necessary Hardhat configurations.
 
 ---
@@ -22,7 +22,7 @@ It includes:
 - Node.js >= 18
 - Hardhat
 - Git
-- Uniswap v4-core cloned or installed
+- Uniswap v4-core (cloned locally or installed)
 
 ---
 
